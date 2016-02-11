@@ -1,0 +1,117 @@
+If a document has been misinterpreted and converted to a different encoding, it's broken. Trying to "repair" it may or may 
+not be successful, usually it isn't. Any manual bit-shifting or other encoding voodoo is mostly that, voodoo. It's trying to 
+fix the symptoms after the patient has already died.
+
+So How To Handle Encodings Correctly?
+
+It's really simple: Know what encoding a certain piece of text, that is, a certain byte sequence, is in, then interpret it 
+with that encoding. That's all you need to do. If you're writing an app that allows the user to input some text, specify what
+ encoding you accept from the user. For any sort of text field, the programmer can usually decide its encoding. For any sort 
+of file a user may upload or import into a program, there needs to be a specification what encoding that file should be in.
+ Alternatively, the user needs some way to tell the program what encoding the file is in. This information may be part of the
+ file format itself, or it may be a selection the user has make (not that most users would usually know, unless they have read
+ this article).
+If a document has been misinterpreted and converted to a different encoding, it's broken. Trying to "repair" it may or may 
+not be successful, usually it isn't. Any manual bit-shifting or other encoding voodoo is mostly that, voodoo. It's trying to 
+fix the symptoms after the patient has already died.
+
+So How To Handle Encodings Correctly?
+
+It's really simple: Know what encoding a certain piece of text, that is, a certain byte sequence, is in, then interpret it 
+with that encoding. That's all you need to do. If you're writing an app that allows the user to input some text, specify what
+ encoding you accept from the user. For any sort of text field, the programmer can usually decide its encoding. For any sort 
+of file a user may upload or import into a program, there needs to be a specification what encoding that file should be in.
+ Alternatively, the user needs some way to tell the program what encoding the file is in. This information may be part of the
+ file format itself, or it may be a selection the user has make (not that most users would usually know, unless they have read
+ this article).
+If a document has been misinterpreted and converted to a different encoding, it's broken. Trying to "repair" it may or may 
+not be successful, usually it isn't. Any manual bit-shifting or other encoding voodoo is mostly that, voodoo. It's trying to 
+fix the symptoms after the patient has already died.
+
+So How To Handle Encodings Correctly?
+
+It's really simple: Know what encoding a certain piece of text, that is, a certain byte sequence, is in, then interpret it 
+with that encoding. That's all you need to do. If you're writing an app that allows the user to input some text, specify what
+ encoding you accept from the user. For any sort of text field, the programmer can usually decide its encoding. For any sort 
+of file a user may upload or import into a program, there needs to be a specification what encoding that file should be in.
+ Alternatively, the user needs some way to tell the program what encoding the file is in. This information may be part of the
+ file format itself, or it may be a selection the user has make (not that most users would usually know, unless they have read
+ this article).If a document has been misinterpreted and converted to a different encoding, it's broken. Trying to "repair" it may or may 
+not be successful, usually it isn't. Any manual bit-shifting or other encoding voodoo is mostly that, voodoo. It's trying to 
+fix the symptoms after the patient has already died.
+
+So How To Handle Encodings Correctly?
+
+It's really simple: Know what encoding a certain piece of text, that is, a certain byte sequence, is in, then interpret it 
+with that encoding. That's all you need to do. If you're writing an app that allows the user to input some text, specify what
+ encoding you accept from the user. For any sort of text field, the programmer can usually decide its encoding. For any sort 
+of file a user may upload or import into a program, there needs to be a specification what encoding that file should be in.
+ Alternatively, the user needs some way to tell the program what encoding the file is in. This information may be part of the
+ file format itself, or it may be a selection the user has make (not that most users would usually know, unless they have read
+ this article).
+If a document has been misinterpreted and converted to a different encoding, it's broken. Trying to "repair" it may or may 
+not be successful, usually it isn't. Any manual bit-shifting or other encoding voodoo is mostly that, voodoo. It's trying to 
+fix the symptoms after the patient has already died.
+
+So How To Handle Encodings Correctly?
+
+It's really simple: Know what encoding a certain piece of text, that is, a certain byte sequence, is in, then interpret it 
+with that encoding. That's all you need to do. If you're writing an app that allows the user to input some text, specify what
+ encoding you accept from the user. For any sort of text field, the programmer can usually decide its encoding. For any sort 
+of file a user may upload or import into a program, there needs to be a specification what encoding that file should be in.
+ Alternatively, the user needs some way to tell the program what encoding the file is in. This information may be part of the
+ file format itself, or it may be a selection the user has make (not that most users would usually know, unless they have read
+ this article).
+If a document has been misinterpreted and converted to a different encoding, it's broken. Trying to "repair" it may or may 
+not be successful, usually it isn't. Any manual bit-shifting or other encoding voodoo is mostly that, voodoo. It's trying to 
+fix the symptoms after the patient has already died.
+
+So How To Handle Encodings Correctly?
+
+It's really simple: Know what encoding a certain piece of text, that is, a certain byte sequence, is in, then interpret it 
+with that encoding. That's all you need to do. If you're writing an app that allows the user to input some text, specify what
+ encoding you accept from the user. For any sort of text field, the programmer can usually decide its encoding. For any sort 
+of file a user may upload or import into a program, there needs to be a specification what encoding that file should be in.
+ Alternatively, the user needs some way to tell the program what encoding the file is in. This information may be part of the
+ file format itself, or it may be a selection the user has make (not that most users would usually know, unless they have read
+ this article).
+If a document has been misinterpreted and converted to a different encoding, it's broken. Trying to "repair" it may or may 
+not be successful, usually it isn't. Any manual bit-shifting or other encoding voodoo is mostly that, voodoo. It's trying to 
+fix the symptoms after the patient has already died.
+
+So How To Handle Encodings Correctly?
+
+It's really simple: Know what encoding a certain piece of text, that is, a certain byte sequence, is in, then interpret it 
+with that encoding. That's all you need to do. If you're writing an app that allows the user to input some text, specify what
+ encoding you accept from the user. For any sort of text field, the programmer can usually decide its encoding. For any sort 
+of file a user may upload or import into a program, there needs to be a specification what encoding that file should be in.
+ Alternatively, the user needs some way to tell the program what encoding the file is in. This information may be part of the
+ file format itself, or it may be a selection the user has make (not that most users would usually know, unless they have read
+ this article).
+If a document has been misinterpreted and converted to a different encoding, it's broken. Trying to "repair" it may or may 
+not be successful, usually it isn't. Any manual bit-shifting or other encoding voodoo is mostly that, voodoo. It's trying to 
+fix the symptoms after the patient has already died.
+
+So How To Handle Encodings Correctly?
+
+It's really simple: Know what encoding a certain piece of text, that is, a certain byte sequence, is in, then interpret it 
+with that encoding. That's all you need to do. If you're writing an app that allows the user to input some text, specify what
+ encoding you accept from the user. For any sort of text field, the programmer can usually decide its encoding. For any sort 
+of file a user may upload or import into a program, there needs to be a specification what encoding that file should be in.
+ Alternatively, the user needs some way to tell the program what encoding the file is in. This information may be part of the
+ file format itself, or it may be a selection the user has make (not that most users would usually know, unless they have read
+ this article).
+If a document has been misinterpreted and converted to a different encoding, it's broken. Trying to "repair" it may or may 
+not be successful, usually it isn't. Any manual bit-shifting or other encoding voodoo is mostly that, voodoo. It's trying to 
+fix the symptoms after the patient has already died.
+
+So How To Handle Encodings Correctly?
+
+It's really simple: Know what encoding a certain piece of text, that is, a certain byte sequence, is in, then interpret it 
+with that encoding. That's all you need to do. If you're writing an app that allows the user to input some text, specify what
+ encoding you accept from the user. For any sort of text field, the programmer can usually decide its encoding. For any sort 
+of file a user may upload or import into a program, there needs to be a specification what encoding that file should be in.
+ Alternatively, the user needs some way to tell the program what encoding the file is in. This information may be part of the
+ file format itself, or it may be a selection the user has make (not that most users would usually know, unless they have read
+ this article).
+
